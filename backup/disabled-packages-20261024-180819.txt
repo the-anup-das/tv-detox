@@ -1,0 +1,1 @@
+com.sony.dtv.b2b.vendorprotocol
